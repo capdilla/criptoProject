@@ -1,0 +1,12 @@
+C:\Users\jose.paniagua\source\repos\FinalProjectCrypto\TDESEncrypter\bin\Debug\TDESEncrypter.dll
+C:\Users\jose.paniagua\source\repos\FinalProjectCrypto\TDESEncrypter\bin\Debug\TDESEncrypter.pdb
+C:\Users\jose.paniagua\source\repos\FinalProjectCrypto\TDESEncrypter\obj\Debug\TDESEncrypter.csprojAssemblyReference.cache
+C:\Users\jose.paniagua\source\repos\FinalProjectCrypto\TDESEncrypter\obj\Debug\TDESEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\jose.paniagua\source\repos\FinalProjectCrypto\TDESEncrypter\obj\Debug\TDESEncrypter.dll
+C:\Users\jose.paniagua\source\repos\FinalProjectCrypto\TDESEncrypter\obj\Debug\TDESEncrypter.pdb
+C:\Users\carlos\Desktop\gitClones\criptoProject-master\TDESEncrypter\bin\Debug\TDESEncrypter.dll
+C:\Users\carlos\Desktop\gitClones\criptoProject-master\TDESEncrypter\bin\Debug\TDESEncrypter.pdb
+C:\Users\carlos\Desktop\gitClones\criptoProject-master\TDESEncrypter\obj\Debug\TDESEncrypter.csprojAssemblyReference.cache
+C:\Users\carlos\Desktop\gitClones\criptoProject-master\TDESEncrypter\obj\Debug\TDESEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Desktop\gitClones\criptoProject-master\TDESEncrypter\obj\Debug\TDESEncrypter.dll
+C:\Users\carlos\Desktop\gitClones\criptoProject-master\TDESEncrypter\obj\Debug\TDESEncrypter.pdb
